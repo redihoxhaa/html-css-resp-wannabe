@@ -129,6 +129,15 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+@media screen and (max-width: 1160px) {
+    .container {
+        width: 100vw;
+    }
+}
+
+/* Data le regola bonus, la regola dei 768px diventa 
+inutile in quanto è stato applicato lo stesso attributo */
+
 @media screen and (max-width: 768px) {
     .container {
         width: 100vw;
