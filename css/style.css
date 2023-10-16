@@ -164,8 +164,7 @@ inutile in quanto è stato applicato lo stesso attributo */
 
     .why-us {
         margin-bottom: 0;
-        padding-bottom: 3rem;
-        padding-top: 3rem;
+        padding: 3rem 0;
         background-color: #222222;
     }
 }
